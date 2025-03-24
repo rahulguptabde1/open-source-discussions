@@ -22,6 +22,10 @@ ResourceSpace is open source DAM software that enables teams to easily share ass
 
 The free usage terms of ResourceSpace specify that you can store up to 10 gigabytes of data for free. This level of storage wouldn’t meet the needs of a large business, however, it might be fine for startups and small businesses. 
 
+**UnoPIM**
+The open source UnoPim digital asset management software instantly updates product data and assets. Included many features such as Asset Export for Products, Asset Operations, Organized Directory Structure, and Image Conversion, with AI support.
+Along with DAM, they have PIM features to manage product data efficiently with easy import and export.
+
 
 **Razuna**
 
